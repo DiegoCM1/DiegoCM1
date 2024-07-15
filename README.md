@@ -6,13 +6,13 @@
 - 🎮 I spend most of the time playing videogames, coding or fighting dragons but you can reach me out anytime using this channel or any other social media platform.
 
 
-## My projects 🚀
+### My projects 🚀
 
 - 💻 @Verskod 
 - 🎮 @NoConexi0n
 
 
-## My experience 👨‍💻
+### My experience 👨‍💻
 
 - 📞 More than 1 year working at @Teleperformance, a billingual customer service center
 - 🌐 Social Media Manager and Software Developer at @Verskod
