@@ -15,4 +15,5 @@
 
 - 📞 More than 1 year working at [Teleperformance](https://www.teleperformance.com/en-us/locations/mexico-site/mexico/), a billingual customer service center
 - 🌐 Social Media Manager and Software Developer at Verskod
-- 👨‍💻 Part of the [Google developer program](https://developers.google.com/profile/u/105791483710706184590/dashboard?authuser=1) 
+- 👨‍💻 Part of the [Google developer program](https://developers.google.com/profile/u/105791483710706184590/dashboard?authuser=1) in the [Google Maps Platform Innovators](https://developers.google.com/profile/u/DiegoCM?authuser=1) community
+
