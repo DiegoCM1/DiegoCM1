@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at Verskod as a Software Engineer and Social Media Manager/Community Manager
+- 🔭 I’m currently working at Verskod as a Junior Frontend Developer
 - 🌱 I’m currently learning #React, #Astro and #Marketing at [Platzi](https://platzi.com/) 
 - 🎮 I spend most of my time improving my skills, whether it is coding 🧑‍💻, boxing 🥊 or speaking 🗣️. One thing is for sure: I'm always trying to go to the next level
 - 💬 Ask me about anything you want, I'm sure we can create something great together 💯
